@@ -102,49 +102,49 @@ var MENU = {
         },
         
         {
-            "id": "shake-shack-shackburger-8-pack",
+            "id": "shake-shack-shackburger-9-pack",
             "img": "images/kit-big.jfif",
             "name": "Kit Big Apple",
-            "dsc": "Shake Shack ShackBurger® - 8 Pack",
+            "dsc": "Shake Shack ShackBurger® - 9 Pack",
             "price": 49
         },
 
         {
-            "id": "the-gramercy-tavern-burger-4-pack",
+            "id": "the-gramercy-tavern-burger-10-pack",
             "img": "images/kit-natasha.jfif",
             "name": "Kit Natasha",
-            "dsc": "The Gramercy Tavern Burger - 4 Pack",
+            "dsc": "The Gramercy Tavern Burger - 10 Pack",
             "price": 99
         },
         {
-            "id": "shake-shack-shackburger-8-pack",
+            "id": "shake-shack-shackburger-11-pack",
             "img": "images/kit-big.jfif",
             "name": "Kit Big Apple",
-            "dsc": "Shake Shack ShackBurger® - 8 Pack",
+            "dsc": "Shake Shack ShackBurger® - 11 Pack",
             "price": 49
         },
         
         {
-            "id": "shake-shack-shackburger-8-pack",
+            "id": "shake-shack-shackburger-12-pack",
             "img": "images/kit-big.jfif",
             "name": "Kit Big Apple",
-            "dsc": "Shake Shack ShackBurger® - 8 Pack",
+            "dsc": "Shake Shack ShackBurger® - 13 Pack",
             "price": 49
         },
 
         {
-            "id": "shake-shack-shackburger-8-pack",
+            "id": "shake-shack-shackburger-14-pack",
             "img": "images/kit-big.jfif",
             "name": "Kit Big Apple",
-            "dsc": "Shake Shack ShackBurger® - 8 Pack",
+            "dsc": "Shake Shack ShackBurger® - 14 Pack",
             "price": 49
         },
         
         {
-            "id": "shake-shack-shackburger-8-pack",
+            "id": "shake-shack-shackburger-15-pack",
             "img": "images/kit-big.jfif",
             "name": "Kit Big Apple",
-            "dsc": "Shake Shack ShackBurger® - 8 Pack",
+            "dsc": "Shake Shack ShackBurger® - 15 Pack",
             "price": 49
         },
     ],
@@ -244,66 +244,66 @@ var MENU = {
         },
 
         {
-            "id": "hong-kong-boba-tea-kit-for-6",
+            "id": "hong-kong-boba-tea-kit-for-16",
             "img": "images/vinhos.jfif",
             "name": "vinho",
-            "dsc": "Hong Kong Boba Tea Kit for 6",
+            "dsc": "Hong Kong Boba Tea Kit for 16",
             "price": 59
         },
 
         {
-            "id": "hong-kong-boba-tea-kit-for-6",
+            "id": "hong-kong-boba-tea-kit-for-17",
             "img": "images/vinhos.jfif",
             "name": "vinho",
-            "dsc": "Hong Kong Boba Tea Kit for 6",
+            "dsc": "Hong Kong Boba Tea Kit for 17",
             "price": 59
         },
 
         {
-            "id": "hong-kong-boba-tea-kit-for-6",
+            "id": "hong-kong-boba-tea-kit-for-18",
             "img": "images/vinhos.jfif",
             "name": "vinho",
-            "dsc": "Hong Kong Boba Tea Kit for 6",
+            "dsc": "Hong Kong Boba Tea Kit for 18",
             "price": 59
         },
 
         {
-            "id": "hong-kong-boba-tea-kit-for-6",
+            "id": "hong-kong-boba-tea-kit-for-19",
             "img": "images/vinhos.jfif",
             "name": "vinho",
-            "dsc": "Hong Kong Boba Tea Kit for 6",
+            "dsc": "Hong Kong Boba Tea Kit for 19",
             "price": 59
         },
 
         {
-            "id": "hong-kong-boba-tea-kit-for-6",
+            "id": "hong-kong-boba-tea-kit-for-20",
             "img": "images/vinhos.jfif",
             "name": "vinho",
-            "dsc": "Hong Kong Boba Tea Kit for 6",
+            "dsc": "Hong Kong Boba Tea Kit for 20",
             "price": 59
         },
 
         {
-            "id": "hong-kong-boba-tea-kit-for-6",
+            "id": "hong-kong-boba-tea-kit-for-21",
             "img": "images/vinhos.jfif",
             "name": "vinho",
-            "dsc": "Hong Kong Boba Tea Kit for 6",
+            "dsc": "Hong Kong Boba Tea Kit for 21",
             "price": 59
         },
 
         {
-            "id": "hong-kong-boba-tea-kit-for-6",
+            "id": "hong-kong-boba-tea-kit-for-22",
             "img": "images/vinhos.jfif",
             "name": "vinho",
-            "dsc": "Hong Kong Boba Tea Kit for 6",
+            "dsc": "Hong Kong Boba Tea Kit for 22",
             "price": 59
         },
 
         {
-            "id": "hong-kong-boba-tea-kit-for-6",
+            "id": "hong-kong-boba-tea-kit-for-23",
             "img": "images/vinhos.jfif",
             "name": "vinho",
-            "dsc": "Hong Kong Boba Tea Kit for 6",
+            "dsc": "Hong Kong Boba Tea Kit for 23",
             "price": 59
         },
        
@@ -312,18 +312,18 @@ var MENU = {
     ],
     "pizzas": [
         {
-            "id": "2-lou-malnatis-deep-dish-pizzas",
+            "id": "2-lou-malnatis-deep-dish-pizzas-1",
 "img": "images/skol-lata-269.jfif", 
             "name": "Skol Beats 269ml",
-            "dsc": "2 Lou Malnati's Deep Dish Pizzas",
+            "dsc": "2 Lou Malnati's Deep Dish Pizzas-1",
             "price": 8.99 
         },
        
         {
-            "id": "2-lou-malnatis-deep-dish-pizzas",
+            "id": "2-lou-malnatis-deep-dish-pizzas-2",
 "img": "images/skol-lata-269.jfif", 
             "name": "Skol Beats 269ml",
-            "dsc": "2 Lou Malnati's Deep Dish Pizzas",
+            "dsc": "2 Lou Malnati's Deep Dish Pizzas-2",
             "price": 8.99 
         },
 
